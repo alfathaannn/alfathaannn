@@ -1,11 +1,4 @@
-<div align="center">
-  <img src="images/gifprofile.gif" alt="Banner GIF">
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+alfathaannn;Website+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -17,6 +10,11 @@
     <img src="https://img.shields.io/github/followers/alfathaannn?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="images/gifprofile.gif" alt="Banner GIF">
 
 ###
 
@@ -59,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alfathaannn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=alfathaannn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" alt="streak graph"  />
 </div>
 
 ###
