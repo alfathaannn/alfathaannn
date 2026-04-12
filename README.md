@@ -20,32 +20,32 @@
 
 <div align="center">
   <!-- Baris 1 -->
-  <img style="padding: 0 8;" src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img style="padding: 0 8;" height="12" />
-  <img style="padding: 0 8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
-  <img style="padding: 0 8;" height="12" />
-  <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
-  <img style="padding: 0 8px;" height="12" />
-  <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
-  <img style="padding: 0 8px;" height="12" />
-  <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
-  <img style="padding: 0 8px;" height="12" />
-  <img style="padding: 0 8px;" src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img height="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img height="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
+  <img height="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
+  <img height="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+  <img height="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   
   <br />
   
   <!-- Baris 2 -->
-  <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo" />
-  <img style="padding: 0 8px;" height="12" />
-  <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo" />
-  <img style="padding: 0 8px;" height="12" />
-  <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
-  <img style="padding: 0 8px;" height="12" />
-  <img style="padding: 0 8px;" src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img style="padding: 0 8px;" height="12" />
-  <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo" />
-  <img style="padding: 0 8px;" height="12" />
-  <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo" />
+  <img height="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo" />
+  <img height="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
+  <img height="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img height="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo" />
+  <img height="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
 </div>
 
 ###
