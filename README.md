@@ -1,8 +1,5 @@
-
-
 <div align="center">
   <img src="images/gifprofile.gif" alt="Banner GIF">
-</div>
 
 ###
 
@@ -83,3 +80,5 @@
 </picture>
 
 ###
+
+</div>
