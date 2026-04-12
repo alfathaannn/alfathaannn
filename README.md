@@ -20,10 +20,10 @@
 
 <div align="center">
   <!-- Baris 1 -->
-  <img style="padding: 0 8px;" src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img style="padding: 0 8px;" height="12" />
-  <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
-  <img style="padding: 0 8px;" height="12" />
+  <img style="padding: 0 8;" src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img style="padding: 0 8;" height="12" />
+  <img style="padding: 0 8;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img style="padding: 0 8;" height="12" />
   <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
   <img style="padding: 0 8px;" height="12" />
   <img style="padding: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
