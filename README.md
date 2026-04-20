@@ -52,25 +52,6 @@
   Let's connect and build something impactful! 🚀
 </p>
 
-<br />
-
-<!-- Social Media Icons - Horizontal Row -->
-<div align="center">
-  <a href="https://linkedin.com/in/alfathaannn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://instagram.com/alfathaannn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://telegram.me/alfathaannn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
-  <a href="mailto:alfathaannn@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
-
-<br />
 <hr />
 
 <h3 align="center">📊 GitHub Stats</h3>
