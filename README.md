@@ -17,7 +17,7 @@
 
 <hr />
 
-<h3 align="center">📝 About Me</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">
   I'm a passionate <strong>Website Developer</strong> with solid experience in building dynamic, responsive, and scalable web applications. 
@@ -26,12 +26,12 @@
   <br />
   Currently, I'm focused on deepening my skills in full-stack JavaScript ecosystems and modern PHP frameworks, while always keeping best practices, security, and performance in mind. 
   <br />
-  Let's connect and build something impactful! 🚀
+  Let's connect and build something impactful!
 </p>
 
 <hr />
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alfathaannn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" alt="streak graph" />
@@ -40,7 +40,7 @@
 <br />
 <hr />
 
-<h3 align="center">🎮 Contribution Graph</h3>
+<h3 align="center">Contribution Graph</h3>
 
 <div align="center">
   <picture>
