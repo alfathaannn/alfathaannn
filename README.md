@@ -29,14 +29,6 @@
   Let's connect and build something impactful!
 </p>
 
-<hr />
-
-<h3 align="center">GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alfathaannn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" alt="streak graph" />
-</div>
-
 <br />
 <hr />
 
