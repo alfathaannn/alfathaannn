@@ -60,5 +60,5 @@
 <br />
 
 <div align="center">
-  <b>alfathaannn</b> © 2026
+  <b>alfathaannn DEV</b> © 2026 
 </div>
