@@ -24,8 +24,6 @@
   <br />
   I enjoy solving real-world problems through clean code, efficient databases, and intuitive user interfaces. 
   <br />
-  Currently, I'm focused on deepening my skills in full-stack JavaScript ecosystems and modern PHP frameworks, while always keeping best practices, security, and performance in mind. 
-  <br />
   Let's connect and build something impactful!
 </p>
 
