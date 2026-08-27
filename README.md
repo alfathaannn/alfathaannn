@@ -132,19 +132,19 @@ Hello! I'm <b>Alfathaan</b>, a dedicated <b>Full-Stack Web Developer</b> focused
 
 <p align="center">
 <a href="https://github.com/alfathaannn" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="images/social-github.svg" height="42" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+&nbsp;
+<a href="https://www.linkedin.com/in/alfathaannn/" target="_blank">
+<img src="images/social-linkedin.svg" height="42" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+&nbsp;
+<a href="https://instagram.com/afathaannn" target="_blank">
+<img src="images/social-instagram.svg" height="42" alt="Instagram" />
 </a>
-<a href="mailto:contact@alfathaan.dev" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://discord.com/" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+&nbsp;
+<a href="mailto:alfathaannndev@gmail.com" target="_blank">
+<img src="images/social-email.svg" height="42" alt="Email" />
 </a>
 </p>
 </div>
