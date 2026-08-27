@@ -48,48 +48,6 @@ Hello! I'm <b>Alfathaan</b>, a dedicated <b>Full-Stack Web Developer</b> focused
 
 ---
 
-<h2 align="center">⚡ Tech Arsenal & Skills</h2>
-
-<div align="center">
-<p><b>Frontend & UI Engineering</b></p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass&perline=10" alt="Frontend Arsenal" />
-</a>
-
-<br /><br />
-
-<p><b>Backend & Database Architecture</b></p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,fastapi,mysql,postgres,mongodb,redis&perline=10" alt="Backend Arsenal" />
-</a>
-
-<br /><br />
-
-<p><b>DevOps & Development Workflow</b></p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux,vercel,vite,npm&perline=10" alt="Tools Arsenal" />
-</a>
-</div>
-
-<br />
-
-<details>
-<summary><b>🔍 View Detailed Stack Matrix</b></summary>
-<br />
-
-| Domain | Primary Stack | Frameworks & Libraries | DevOps & Tooling |
-| :--- | :--- | :--- | :--- |
-| **Frontend** | `JavaScript (ESNext)`, `TypeScript`, `HTML5 / CSS3` | `React.js`, `Next.js`, `Vue.js`, `Tailwind CSS` | `Vite`, `Sass`, `PostCSS`, `Figma` |
-| **Backend** | `Node.js`, `PHP`, `Python`, `TypeScript` | `Express.js`, `Laravel`, `FastAPI` | `REST APIs`, `JWT Auth`, `WebSockets` |
-| **Databases** | `SQL & NoSQL` | `PostgreSQL`, `MySQL`, `MongoDB`, `Redis` | `Prisma ORM`, `Eloquent ORM`, `Supabase` |
-| **DevOps** | `Linux`, `Docker Containers` | `GitHub Actions CI/CD`, `Vercel` | `Git`, `Postman`, `VS Code`, `NPM/Yarn` |
-
-</details>
-
-<br />
-
----
-
 <h2 align="center">📊 GitHub Analytics & Performance</h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
