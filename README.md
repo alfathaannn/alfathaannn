@@ -12,17 +12,9 @@
 
 <br />
 
-<!-- STATUS BADGES -->
+<!-- DYNAMIC STATUS TICKER (HORIZONTAL LOOP) -->
 <div align="center">
-<a href="https://github.com/alfathaannn">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20%26%20BUILDING-00F2FE?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" alt="Status" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=alfathaannn&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge&logo=eye&logoColor=white&labelColor=0d1117" alt="Profile Views" />
-<a href="https://github.com/alfathaannn?tab=followers">
-<img src="https://img.shields.io/github/followers/alfathaannn?label=FOLLOWERS&color=818cf8&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Followers" />
-</a>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEV-a855f7?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0d1117" alt="Focus" />
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-ec4899?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
+<img src="images/status-ticker.svg" width="100%" alt="Status Ticker" />
 </div>
 
 <br />
