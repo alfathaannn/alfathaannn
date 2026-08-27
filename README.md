@@ -132,19 +132,19 @@ Hello! I'm <b>Alfathaan</b>, a dedicated <b>Full-Stack Web Developer</b> focused
 
 <p align="center">
 <a href="https://github.com/alfathaannn" target="_blank">
-<img src="images/social-github.svg" height="42" alt="GitHub" />
+<img src="images/social-github.svg" height="46" width="46" alt="GitHub" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alfathaannn/" target="_blank">
-<img src="images/social-linkedin.svg" height="42" alt="LinkedIn" />
+<img src="images/social-linkedin.svg" height="46" width="46" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://instagram.com/afathaannn" target="_blank">
-<img src="images/social-instagram.svg" height="42" alt="Instagram" />
+<img src="images/social-instagram.svg" height="46" width="46" alt="Instagram" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:alfathaannndev@gmail.com" target="_blank">
-<img src="images/social-email.svg" height="42" alt="Email" />
+<img src="images/social-email.svg" height="46" width="46" alt="Email" />
 </a>
 </p>
 </div>

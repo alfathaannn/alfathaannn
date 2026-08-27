@@ -1,17 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 44" width="160" height="44">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
   <defs>
-    <linearGradient id="bg-email" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg-mail" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#EA4335" />
       <stop offset="100%" stop-color="#C5221F" />
     </linearGradient>
-    <filter id="shadow-mail" x="-10%" y="-10%" width="120%" height="130%">
-      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#EA4335" flood-opacity="0.3" />
+    <filter id="shadow-mail" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#EA4335" flood-opacity="0.4" />
     </filter>
   </defs>
-  <rect x="2" y="2" width="156" height="40" rx="20" fill="url(#bg-email)" stroke="#F87171" stroke-width="1.2" filter="url(#shadow-mail)" />
-  <g transform="translate(20, 12)">
-    <!-- Email/Gmail Icon -->
+  <circle cx="25" cy="25" r="22" fill="url(#bg-mail)" stroke="#F87171" stroke-width="1.5" filter="url(#shadow-mail)" />
+  <g transform="translate(14, 15) scale(1.1)">
     <path fill="#FFFFFF" d="M18 0H2C.9 0 0 .9 0 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V2c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V2l8 5 8-5v2z"/>
   </g>
-  <text x="82" y="26" font-family="'Google Sans', -apple-system, sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" letter-spacing="0.5">Email</text>
 </svg>

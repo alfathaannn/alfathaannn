@@ -1,17 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 44" width="160" height="44">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
   <defs>
-    <linearGradient id="bg-linkedin" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg-in" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0077B5" />
       <stop offset="100%" stop-color="#0A66C2" />
     </linearGradient>
-    <filter id="shadow-in" x="-10%" y="-10%" width="120%" height="130%">
-      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#0077B5" flood-opacity="0.3" />
+    <filter id="shadow-in" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#0077B5" flood-opacity="0.4" />
     </filter>
   </defs>
-  <rect x="2" y="2" width="156" height="40" rx="20" fill="url(#bg-linkedin)" stroke="#60A5FA" stroke-width="1.2" filter="url(#shadow-in)" />
-  <g transform="translate(18, 12)">
-    <!-- LinkedIn Icon -->
+  <circle cx="25" cy="25" r="22" fill="url(#bg-in)" stroke="#60A5FA" stroke-width="1.5" filter="url(#shadow-in)" />
+  <g transform="translate(13, 13) scale(1.2)">
     <path fill="#FFFFFF" d="M19 0h-18c-.55 0-1 .45-1 1v18c0 .55.45 1 1 1h18c.55 0 1-.45 1-1v-18c0-.55-.45-1-1-1zm-11.75 17h-2.95v-9h2.95v9zm-1.48-10.27c-.95 0-1.71-.77-1.71-1.72 0-.95.77-1.72 1.71-1.72.95 0 1.72.77 1.72 1.72 0 .95-.77 1.72-1.72 1.72zm11.23 10.27h-2.94v-4.63c0-1.1-.02-2.52-1.54-2.52-1.54 0-1.77 1.2-1.77 2.44v4.71h-2.95v-9h2.83v1.23h.04c.39-.75 1.36-1.54 2.8-1.54 2.99 0 3.54 1.97 3.54 4.53v4.78z"/>
   </g>
-  <text x="76" y="26" font-family="'Google Sans', -apple-system, sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" letter-spacing="0.5">LinkedIn</text>
 </svg>
