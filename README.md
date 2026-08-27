@@ -1,62 +1,201 @@
+<!-- HERO BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+alfathaannn;Website+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,38,45&height=240&section=header&text=ALFATHAANNN&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20Creative%20Technologist&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
+<!-- ANIMATED TYPING SUBTITLE -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alfathaannn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/alfathaannn?tab=followers">
-    <img src="https://img.shields.io/github/followers/alfathaannn?label=Follow&style=social" alt="GitHub followers" />
-  </a>
+<a href="https://github.com/alfathaannn">
+<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=23&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=%E2%9A%A1+CRAFTING+HIGH-PERFORMANCE+WEB+SYSTEMS;%F0%9F%9A%80+FULL-STACK+ARCHITECT+%26+CLOUD+ENTHUSIAST;%F0%9F%92%BB+PASSIONATE+OPEN-SOURCE+BUILDER;%E2%9C%A8+TRANSFORMING+VISIONS+INTO+CLEAN+CODE" alt="Typing SVG" />
+</a>
 </div>
 
 <br />
 
+<!-- STATUS BADGES -->
 <div align="center">
-  <img src="images/gifprofile.gif" alt="Banner GIF" width="100%">
+<a href="https://github.com/alfathaannn">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20%26%20BUILDING-00F2FE?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" alt="Status" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=alfathaannn&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge&logo=eye&logoColor=white&labelColor=0d1117" alt="Profile Views" />
+<a href="https://github.com/alfathaannn?tab=followers">
+<img src="https://img.shields.io/github/followers/alfathaannn?label=FOLLOWERS&color=818cf8&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Followers" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEV-a855f7?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0d1117" alt="Focus" />
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-ec4899?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
 </div>
 
-<hr />
+<br />
 
-<h3 align="center">About Me</h3>
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="65%" valign="top" style="padding-right: 20px;">
+<div style="font-family: 'Google Sans', sans-serif; line-height: 1.7; font-size: 15px;">
+<p>
+Hello! I'm <b>Alfathaan</b>, a dedicated <b>Full-Stack Web Developer</b> focused on architecting responsive, scalable, and secure modern web applications. I turn complex logic into clean code and intuitive digital experiences.
+</p>
+<p>
+🔭 <b>Current Focus:</b> Scalable web applications, modern React/Next.js architectures, and backend API engineering.<br />
+🌱 <b>Continuous Growth:</b> Cloud infrastructure, microservices, and database tuning.<br />
+🎯 <b>Core Principle:</b> Clean architecture, modular design, and robust performance.<br />
+💬 <b>Let's Discuss:</b> JavaScript, TypeScript, Next.js, Node.js, Laravel, REST APIs, & UI/UX Design.
+</p>
+</div>
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="images/gifprofile.gif" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" alt="Developer" />
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+<h2 align="center">⚡ Tech Arsenal & Skills</h2>
+
+<div align="center">
+<p><b>Frontend & UI Engineering</b></p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass&perline=10" alt="Frontend Arsenal" />
+</a>
+
+<br /><br />
+
+<p><b>Backend & Database Architecture</b></p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,fastapi,mysql,postgres,mongodb,redis&perline=10" alt="Backend Arsenal" />
+</a>
+
+<br /><br />
+
+<p><b>DevOps & Development Workflow</b></p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux,vercel,vite,npm&perline=10" alt="Tools Arsenal" />
+</a>
+</div>
+
+<br />
+
+<details>
+<summary><b>🔍 View Detailed Stack Matrix</b></summary>
+<br />
+
+| Domain | Primary Stack | Frameworks & Libraries | DevOps & Tooling |
+| :--- | :--- | :--- | :--- |
+| **Frontend** | `JavaScript (ESNext)`, `TypeScript`, `HTML5 / CSS3` | `React.js`, `Next.js`, `Vue.js`, `Tailwind CSS` | `Vite`, `Sass`, `PostCSS`, `Figma` |
+| **Backend** | `Node.js`, `PHP`, `Python`, `TypeScript` | `Express.js`, `Laravel`, `FastAPI` | `REST APIs`, `JWT Auth`, `WebSockets` |
+| **Databases** | `SQL & NoSQL` | `PostgreSQL`, `MySQL`, `MongoDB`, `Redis` | `Prisma ORM`, `Eloquent ORM`, `Supabase` |
+| **DevOps** | `Linux`, `Docker Containers` | `GitHub Actions CI/CD`, `Vercel` | `Git`, `Postman`, `VS Code`, `NPM/Yarn` |
+
+</details>
+
+<br />
+
+---
+
+<h2 align="center">📊 GitHub Analytics & Performance</h2>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td width="50%" align="center" valign="middle" style="padding: 6px;">
+<a href="https://github.com/alfathaannn">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alfathaannn&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=12&bg_color=141321&border_color=38BDF8&title_color=70A5FD&text_color=9E9E9E" height="195" alt="Most Used Languages" />
+</a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding: 6px;">
+<a href="https://github.com/alfathaannn">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=alfathaannn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=12&bg_color=141321&border_color=38BDF8&title_color=70A5FD&icon_color=BF91F3&text_color=9E9E9E" height="195" alt="GitHub Stats" />
+</a>
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+<h2 align="center">🎮 Contribution Radar</h2>
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph.svg">
+<img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+</div>
+
+<br />
+
+---
+
+<h2 align="center">🚀 Core Competencies</h2>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top" style="padding: 10px;">
+<div style="padding: 16px; border: 1px solid #30363d; border-radius: 12px; font-family: 'Google Sans', sans-serif;">
+<h4 style="margin-top: 0; color: #38BDF8;">🌐 Modern Web Engineering</h4>
+<p style="font-size: 14px; line-height: 1.5; color: #c9d1d9;">Full-stack web portals built with modern frontend frameworks, responsive UI systems, state management, and optimized asset loading.</p>
+<p style="margin-bottom: 0;">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</p>
+</div>
+</td>
+<td width="50%" valign="top" style="padding: 10px;">
+<div style="padding: 16px; border: 1px solid #30363d; border-radius: 12px; font-family: 'Google Sans', sans-serif;">
+<h4 style="margin-top: 0; color: #38BDF8;">⚙️ Backend & API Architecture</h4>
+<p style="font-size: 14px; line-height: 1.5; color: #c9d1d9;">High-throughput server runtimes, structured REST APIs, database relations, secure authentication pipelines, and cloud deployment.</p>
+<p style="margin-bottom: 0;">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+</div>
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+<p>Interested in collaborating or discussing new opportunities? Feel free to reach out!</p>
 
 <p align="center">
-  I'm a passionate <strong>Website Developer</strong> with solid experience in building dynamic, responsive, and scalable web applications. 
-  <br />
-  I enjoy solving real-world problems through clean code, efficient databases, and intuitive user interfaces. 
-  <br />
-  Let's connect and build something impactful!
+<a href="https://github.com/alfathaannn" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:contact@alfathaan.dev" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://discord.com/" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 </p>
-
-<br />
-<hr />
-
-<h3 align="center">Contribution Graph</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
-
-<br />
-<hr />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=2D9BF0&center=true&vCenter=true&width=300&lines=Thanks+for+stopping+by!;Let's+connect+%F0%9F%9A%80;Keep+coding!+%F0%9F%92%BB" alt="Footer SVG" />
 </div>
 
 <br />
 
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.webp" height="150" />
-  <img src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp" height="150" />
-  <img src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/200w.webp" height="150" />
-</div>
-
-<br />
-
-<div align="center">
-  <b>alfathaannn DEV</b> © 2026 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,38,45&height=120&section=footer" width="100%" alt="Footer Banner" />
+<p align="center">
+<b>⚡ Engineered & Crafted with Passion by <a href="https://github.com/alfathaannn">@alfathaannn</a> © 2026</b>
+</p>
 </div>
