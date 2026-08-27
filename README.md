@@ -133,39 +133,6 @@ Hello! I'm <b>Alfathaan</b>, a dedicated <b>Full-Stack Web Developer</b> focused
 
 ---
 
-<h2 align="center">🚀 Core Competencies</h2>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top" style="padding: 10px;">
-<div style="padding: 16px; border: 1px solid #30363d; border-radius: 12px; font-family: 'Google Sans', sans-serif;">
-<h4 style="margin-top: 0; color: #38BDF8;">🌐 Modern Web Engineering</h4>
-<p style="font-size: 14px; line-height: 1.5; color: #c9d1d9;">Full-stack web portals built with modern frontend frameworks, responsive UI systems, state management, and optimized asset loading.</p>
-<p style="margin-bottom: 0;">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
-</div>
-</td>
-<td width="50%" valign="top" style="padding: 10px;">
-<div style="padding: 16px; border: 1px solid #30363d; border-radius: 12px; font-family: 'Google Sans', sans-serif;">
-<h4 style="margin-top: 0; color: #38BDF8;">⚙️ Backend & API Architecture</h4>
-<p style="font-size: 14px; line-height: 1.5; color: #c9d1d9;">High-throughput server runtimes, structured REST APIs, database relations, secure authentication pipelines, and cloud deployment.</p>
-<p style="margin-bottom: 0;">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-</div>
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
