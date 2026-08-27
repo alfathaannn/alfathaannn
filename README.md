@@ -153,7 +153,6 @@ Hello! I'm <b>Alfathaan</b>, a dedicated <b>Full-Stack Web Developer</b> focused
 
 <!-- FOOTER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,38,45&height=120&section=footer" width="100%" alt="Footer Banner" />
 <p align="center">
 <b>⚡ Engineered & Crafted with Passion by <a href="https://github.com/alfathaannn">@alfathaannn</a> © 2026</b>
 </p>
