@@ -21,33 +21,6 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="top" style="padding-right: 20px;">
-<div style="font-family: 'Google Sans', sans-serif; line-height: 1.7; font-size: 15px;">
-<p>
-Hello! I'm <b>Alfathaan</b>, a dedicated <b>Full-Stack Web Developer</b> focused on architecting responsive, scalable, and secure modern web applications. I turn complex logic into clean code and intuitive digital experiences.
-</p>
-<p>
-🔭 <b>Current Focus:</b> Scalable web applications, modern React/Next.js architectures, and backend API engineering.<br />
-🌱 <b>Continuous Growth:</b> Cloud infrastructure, microservices, and database tuning.<br />
-🎯 <b>Core Principle:</b> Clean architecture, modular design, and robust performance.<br />
-💬 <b>Let's Discuss:</b> JavaScript, TypeScript, Next.js, Node.js, Laravel, REST APIs, & UI/UX Design.
-</p>
-</div>
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="images/gifprofile.gif" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" alt="Developer" />
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
 <h2 align="center">📊 GitHub Analytics & Performance</h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
