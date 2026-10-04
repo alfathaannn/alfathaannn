@@ -21,8 +21,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics & Performance</h2>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 <tr>
 <td width="50%" align="center" valign="middle" style="padding: 6px;">
@@ -42,8 +40,6 @@
 
 ---
 
-<h2 align="center">🎮 Contribution Radar</h2>
-
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph-dark.svg">
@@ -55,8 +51,6 @@
 <br />
 
 ---
-
-<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 <p>Interested in collaborating or discussing new opportunities? Feel free to reach out!</p>
