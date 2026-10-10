@@ -79,6 +79,6 @@
 <!-- FOOTER -->
 <div align="center">
 <p align="center">
-<b>⚡ Engineered & Crafted with Passion by <a href="https://alfathaannn.id">alfathaannn</a> © 2026</b>
+<b>Engineered & Crafted with Passion by <a href="https://alfathaannn.id">alfathaannn</a> © 2026</b>
 </p>
 </div>
