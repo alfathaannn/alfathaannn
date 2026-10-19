@@ -13,11 +13,11 @@
 <br />
 
 <!-- DYNAMIC STATUS TICKER (HORIZONTAL LOOP) -->
-<div align="center">
+<!-- <div align="center">
 <img src="images/status-ticker.svg" width="100%" alt="Status Ticker" />
-</div>
+</div> -->
 
-<br />
+<!-- <br /> -->
 
 ---
 
@@ -26,11 +26,6 @@
 <td width="50%" align="center" valign="middle" style="padding: 6px;">
 <a href="https://github.com/alfathaannn">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alfathaannn&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=12&bg_color=141321&border_color=38BDF8&title_color=70A5FD&text_color=9E9E9E" height="195" alt="Most Used Languages" />
-</a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding: 6px;">
-<a href="https://github.com/alfathaannn">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=alfathaannn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=12&bg_color=141321&border_color=38BDF8&title_color=70A5FD&icon_color=BF91F3&text_color=9E9E9E" height="195" alt="GitHub Stats" />
 </a>
 </td>
 </tr>
