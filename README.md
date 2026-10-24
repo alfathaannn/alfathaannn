@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,38,45&height=240&section=header&text=ALFATHAANNN&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20Creative%20Technologist&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,38,45&height=240&section=header&text=ALFATHAANNN&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=Web%20Developer%20%7C%20Creative%20Technologist&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <!-- ANIMATED TYPING SUBTITLE -->
