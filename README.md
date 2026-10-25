@@ -1,9 +1,8 @@
-<!-- HERO BANNER -->
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,38,45&height=240&section=header&text=ALFATHAANNN&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=Web%20Developer%20%7C%20Creative%20Technologist&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
-<!-- ANIMATED TYPING SUBTITLE -->
 <div align="center">
 <a href="https://github.com/alfathaannn">
 <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=23&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=%E2%9A%A1+CRAFTING+HIGH-PERFORMANCE+WEB+SYSTEMS;%F0%9F%9A%80+FULL-STACK+ARCHITECT+%26+CLOUD+ENTHUSIAST;%F0%9F%92%BB+PASSIONATE+OPEN-SOURCE+BUILDER;%E2%9C%A8+TRANSFORMING+VISIONS+INTO+CLEAN+CODE" alt="Typing SVG" />
@@ -11,13 +10,6 @@
 </div>
 
 <br />
-
-<!-- DYNAMIC STATUS TICKER (HORIZONTAL LOOP) -->
-<!-- <div align="center">
-<img src="images/status-ticker.svg" width="100%" alt="Status Ticker" />
-</div> -->
-
-<!-- <br /> -->
 
 ---
 
@@ -71,7 +63,6 @@
 
 <br />
 
-<!-- FOOTER -->
 <div align="center">
 <p align="center">
 <b>Engineered & Crafted with Passion by <a href="https://alfathaannn.id">alfathaannn</a> © 2026</b>
