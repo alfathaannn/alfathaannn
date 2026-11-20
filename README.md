@@ -14,8 +14,6 @@
   <img src="./images/tech-stack.svg" alt="Daftar Teknologi yang Dikuasai" width="100%" />
 </div>
 
-<h3 align="center">Statistik GitHub</h3>
-
 <!-- <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=alfathaannn&show_icons=true&bg_color=0c1116&title_color=38bdf8&text_color=e6edf3&icon_color=38bdf8&border_color=18232e&border_radius=16&hide_border=false" alt="Statistik GitHub alfathaannn" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfathaannn&layout=compact&bg_color=0c1116&title_color=38bdf8&text_color=e6edf3&border_color=18232e&border_radius=16&hide_border=false" alt="Bahasa Teratas alfathaannn" />
@@ -37,8 +35,6 @@
     <img alt="Grafik Kontribusi Pacman alfathaannn" src="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
 </div>
-
-<h3 align="center">Terhubung dengan Saya</h3>
 
 <p align="center">
   <a href="https://github.com/alfathaannn" target="_blank" rel="noopener noreferrer"><img src="./images/social-github.svg" alt="GitHub" width="168" /></a>
