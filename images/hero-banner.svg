@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="236" viewBox="0 0 900 236" fill="none">
+  <style>
+  :root {
+    --bg: #0C1116;
+    --surface: #0F151C;
+    --well: #090D12;
+    --edge: rgba(255, 255, 255, 0.045);
+    --hairline: rgba(240, 246, 252, 0.07);
+    --ink: #F0F6FC;
+    --ink-2: #9BA7B4;
+    --ink-3: #6E7A86;
+    --accent: #38BDF8;
+    --accent-soft: rgba(56, 189, 248, 0.14);
+    --bar-track: #080C10;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #EBF0F5;
+      --surface: #EDF2F7;
+      --well: #E2E8F0;
+      --edge: rgba(255, 255, 255, 0.85);
+      --hairline: rgba(15, 23, 42, 0.08);
+      --ink: #0F172A;
+      --ink-2: #475569;
+      --ink-3: #64748B;
+      --accent: #0284C7;
+      --accent-soft: rgba(2, 132, 199, 0.12);
+      --bar-track: #DCE3EC;
+    }
+  }
+  .font-display { font-family: 'Plus Jakarta Sans', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; }
+  .font-body { font-family: 'Manrope', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; }
+  .font-mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace; }
+  @keyframes fadeUp {
+    from { opacity: 0.92; transform: translateY(3px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes floatSoft {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-3px); }
+  }
+  @keyframes tickerSlide {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-460px); }
+  }
+  .anim-in { animation: fadeUp 0.28s cubic-bezier(0.16, 1, 0.3, 1) both; }
+  .anim-float { animation: floatSoft 4.2s ease-in-out infinite; }
+  .anim-ticker { animation: tickerSlide 22s linear infinite; }
+  @media (prefers-reduced-motion: reduce) {
+    .anim-in, .anim-float, .anim-ticker { animation: none !important; }
+  }
+</style>
+  
+  <defs>
+    <filter id="neuRaised" x="-15%" y="-25%" width="130%" height="150%">
+      <feDropShadow dx="9" dy="9" stdDeviation="9" flood-color="#04070B" flood-opacity="0.9"/>
+      <feDropShadow dx="-7" dy="-7" stdDeviation="8" flood-color="#182430" flood-opacity="0.8"/>
+    </filter>
+    <filter id="neuSm" x="-22%" y="-28%" width="144%" height="156%">
+      <feDropShadow dx="5" dy="5" stdDeviation="5" flood-color="#04070B" flood-opacity="0.88"/>
+      <feDropShadow dx="-4" dy="-4" stdDeviation="4.5" flood-color="#182430" flood-opacity="0.78"/>
+    </filter>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="236" rx="26" fill="var(--bg)"/>
+  <rect x="28" y="26" width="844" height="184" rx="22" fill="var(--surface)" stroke="var(--edge)" stroke-width="1" filter="url(#neuRaised)"/>
+  <rect x="64" y="26" width="772" height="1.5" fill="url(#accentLine)"/>
+
+  <!-- Hugeicons Code Emblem (Raised Neomorphic Tile) -->
+  <g class="anim-float">
+    <rect x="62" y="64" width="108" height="108" rx="26" fill="var(--surface)" stroke="var(--edge)" stroke-width="1" filter="url(#neuSm)"/>
+    <rect x="74" y="76" width="84" height="84" rx="20" fill="var(--well)"/>
+    <g transform="translate(96, 98)" stroke="var(--accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M13 10L5.5 20L13 30"/>
+      <path d="M27 10L34.5 20L27 30"/>
+      <path d="M22.5 7L17.5 33"/>
+    </g>
+  </g>
+
+  <!-- Identity Hierarchy -->
+  <g class="anim-in">
+    <text x="200" y="80" fill="var(--ink-2)" class="font-mono" font-size="13">@alfathaannn  ·  Open to Collaboration</text>
+    <text x="200" y="124" fill="var(--ink)" class="font-display" font-size="38" font-weight="800" letter-spacing="-0.8">alfathaannn.id</text>
+    <text x="200" y="156" fill="var(--accent)" class="font-display" font-size="18" font-weight="600">Full-Stack Web Developer</text>
+    <text x="200" y="184" fill="var(--ink-3)" class="font-body" font-size="13">Clean architecture, smooth interactions, and optimal performance on desktop and mobile.</text>
+  </g>
+</svg>

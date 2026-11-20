@@ -1,70 +1,53 @@
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,38,45&height=240&section=header&text=ALFATHAANNN&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=Web%20Developer%20%7C%20Creative%20Technologist&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="./images/hero-banner.svg" alt="alfathaannn Full-Stack Web Developer" width="100%" />
 </div>
 
 <div align="center">
-<a href="https://github.com/alfathaannn">
-<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=23&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=%E2%9A%A1+CRAFTING+HIGH-PERFORMANCE+WEB+SYSTEMS;%F0%9F%9A%80+FULL-STACK+ARCHITECT+%26+CLOUD+ENTHUSIAST;%F0%9F%92%BB+PASSIONATE+OPEN-SOURCE+BUILDER;%E2%9C%A8+TRANSFORMING+VISIONS+INTO+CLEAN+CODE" alt="Typing SVG" />
-</a>
+  <img src="./images/status-ticker.svg" alt="Sorotan Keahlian alfathaannn" width="100%" />
 </div>
 
-<br />
-
----
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-<tr>
-<td width="50%" align="center" valign="middle" style="padding: 6px;">
-<a href="https://github.com/alfathaannn">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alfathaannn&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=12&bg_color=141321&border_color=38BDF8&title_color=70A5FD&text_color=9E9E9E" height="195" alt="Most Used Languages" />
-</a>
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph.svg">
-<img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph.svg" width="100%">
-</picture>
+  <img src="./images/profile-card.svg" alt="Profil Singkat alfathaannn" width="100%" />
 </div>
 
-<br />
+<div align="center">
+  <img src="./images/tech-stack.svg" alt="Daftar Teknologi yang Dikuasai" width="100%" />
+</div>
 
----
+<h3 align="center">Statistik GitHub</h3>
+
+<!-- <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alfathaannn&show_icons=true&bg_color=0c1116&title_color=38bdf8&text_color=e6edf3&icon_color=38bdf8&border_color=18232e&border_radius=16&hide_border=false" alt="Statistik GitHub alfathaannn" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfathaannn&layout=compact&bg_color=0c1116&title_color=38bdf8&text_color=e6edf3&border_color=18232e&border_radius=16&hide_border=false" alt="Bahasa Teratas alfathaannn" />
+</div> -->
 
 <div align="center">
-<p>Interested in collaborating or discussing new opportunities? Feel free to reach out!</p>
+  <img src="https://streak-stats.demolab.com?user=alfathaannn&background=0C1116&ring=38BDF8&fire=38BDF8&currStreakLabel=F0F6FC&sideLabels=9BA7B4&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7A86&border=18232E&border_radius=16" alt="GitHub Streak alfathaannn" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfathaannn&bg_color=0c1116&color=9ba7b4&line=38bdf8&point=f0f6fc&area=true&area_color=1c3b57&hide_border=false&border_color=18232e&radius=16" alt="Grafik Aktivitas alfathaannn" width="100%" />
+</div>
+
+<!-- Grafik Kontribusi Pacman (diperbarui otomatis oleh .github/workflows/pacman.yml) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph.svg" />
+    <img alt="Grafik Kontribusi Pacman alfathaannn" src="https://raw.githubusercontent.com/alfathaannn/alfathaannn/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<h3 align="center">Terhubung dengan Saya</h3>
 
 <p align="center">
-<a href="https://github.com/alfathaannn" target="_blank">
-<img src="images/social-github.svg" height="46" width="46" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/alfathaannn/" target="_blank">
-<img src="images/social-linkedin.svg" height="46" width="46" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/afathaannn" target="_blank">
-<img src="images/social-instagram.svg" height="46" width="46" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:alfathaannndev@gmail.com" target="_blank">
-<img src="images/social-email.svg" height="46" width="46" alt="Email" />
-</a>
+  <a href="https://github.com/alfathaannn" target="_blank" rel="noopener noreferrer"><img src="./images/social-github.svg" alt="GitHub" width="168" /></a>
+  <a href="https://linkedin.com/in/alfathaannn" target="_blank" rel="noopener noreferrer"><img src="./images/social-linkedin.svg" alt="LinkedIn" width="168" /></a>
+  <a href="https://instagram.com/alfathaannn" target="_blank" rel="noopener noreferrer"><img src="./images/social-instagram.svg" alt="Instagram" width="168" /></a>
+  <a href="https://alfathaannn.id" target="_blank" rel="noopener noreferrer"><img src="./images/social-website.svg" alt="Website" width="168" /></a>
+  <a href="mailto:alfathaannndev@gmail.com"><img src="./images/social-email.svg" alt="Email" width="168" /></a>
 </p>
-</div>
-
-<br />
 
 <div align="center">
-<p align="center">
-<b>Engineered & Crafted with Passion by <a href="https://alfathaannn.id">alfathaannn</a> © 2026</b>
-</p>
+  <img src="./images/footer-card.svg" alt="Footer Alfathaan" width="100%" />
 </div>
