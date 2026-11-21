@@ -84,9 +84,9 @@
 
   <!-- Identity Hierarchy -->
   <g class="anim-in">
-    <text x="200" y="80" fill="var(--ink-2)" class="font-mono" font-size="13">@alfathaannn  ·  Open to Collaboration</text>
+    <text x="200" y="80" fill="var(--ink-2)" class="font-mono" font-size="13">@alfathaannn  |  Open to Collaboration</text>
     <text x="200" y="124" fill="var(--ink)" class="font-display" font-size="38" font-weight="800" letter-spacing="-0.8">alfathaannn.id</text>
-    <text x="200" y="156" fill="var(--accent)" class="font-display" font-size="18" font-weight="600">Full-Stack Web Developer</text>
+    <text x="200" y="156" fill="var(--accent)" class="font-display" font-size="18" font-weight="600">Focus on Website Development</text>
     <text x="200" y="184" fill="var(--ink-3)" class="font-body" font-size="13">Clean architecture, smooth interactions, and optimal performance on desktop and mobile.</text>
   </g>
 </svg>
