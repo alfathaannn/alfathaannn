@@ -37,7 +37,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/alfathaannn" target="_blank" rel="noopener noreferrer"><img src="./images/social-github.svg" alt="GitHub" width="168" /></a>
+  <!-- <a href="https://github.com/alfathaannn" target="_blank" rel="noopener noreferrer"><img src="./images/social-github.svg" alt="GitHub" width="168" /></a> -->
   <a href="https://linkedin.com/in/alfathaannn" target="_blank" rel="noopener noreferrer"><img src="./images/social-linkedin.svg" alt="LinkedIn" width="168" /></a>
   <a href="https://instagram.com/alfathaannn" target="_blank" rel="noopener noreferrer"><img src="./images/social-instagram.svg" alt="Instagram" width="168" /></a>
   <a href="https://alfathaannn.id" target="_blank" rel="noopener noreferrer"><img src="./images/social-website.svg" alt="Website" width="168" /></a>
