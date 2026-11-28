@@ -14,11 +14,6 @@
   <img src="./images/tech-stack.svg" alt="Daftar Teknologi yang Dikuasai" width="100%" />
 </div>
 
-<!-- <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alfathaannn&show_icons=true&bg_color=0c1116&title_color=38bdf8&text_color=e6edf3&icon_color=38bdf8&border_color=18232e&border_radius=16&hide_border=false" alt="Statistik GitHub alfathaannn" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfathaannn&layout=compact&bg_color=0c1116&title_color=38bdf8&text_color=e6edf3&border_color=18232e&border_radius=16&hide_border=false" alt="Bahasa Teratas alfathaannn" />
-</div> -->
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alfathaannn&background=0C1116&ring=38BDF8&fire=38BDF8&currStreakLabel=F0F6FC&sideLabels=9BA7B4&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7A86&border=18232E&border_radius=16" alt="GitHub Streak alfathaannn" />
 </div>
